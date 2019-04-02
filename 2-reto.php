@@ -4,7 +4,7 @@
  * Por ejemplo, 79197 y 324423 son palíndromos. 
  * 
  * En esta tarea se le dará un entero N, 1 <= N <= 1.000.000 
- * Usted debe encontrar el menor entero M tal que M >= Nm M es primo y es un palíndromo.
+ * Usted debe encontrar el menor entero M tal que M >= N M es primo y es un palíndromo.
  * 
  * *Por ejemplo, si N es 31, entonces la respuesta es 101.
  * 
